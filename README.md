@@ -1,1 +1,2 @@
-# Lab_3
+# Run app:
+./pipeline.sh
